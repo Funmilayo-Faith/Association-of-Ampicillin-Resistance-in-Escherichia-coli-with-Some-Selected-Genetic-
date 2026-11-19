@@ -1,0 +1,1 @@
+# Association-of-Ampicillin-Resistance-in-Escherichia-coli-with-Some-Selected-Genetic-
