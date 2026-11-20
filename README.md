@@ -16,8 +16,6 @@ Dataset obtained from EMBL-EBI portal, Microsoft Excel, GraphPad Fischer test ca
 From the EMBL-EBI portal, dataset containing combined phenotype and genotype was download. This dataset was filtered for Escherichia coli and Ampicillin. In Power query editor on Microsoft Excel, the dataset was filtered for CLSI (for ensuring uniformity in antimicrobial susceptibility testing method), two forms of resistance phenotype (preventing ambiguity when analyzing the data). A total of 750 unique columns remained and was loaded for analysis.
 
 
-### Files
-
 ### Discussion
 4 genes were seen as related to resistance phenotype in tis organism for ampicillin. They are marR, soxS, soxR and acrR_1. Of these, only marR and soxS were selected as both had both resistant and susceptible phenotypes.
 
